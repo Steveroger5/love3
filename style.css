@@ -1,0 +1,125 @@
+#melodies{
+  background-image: url("art.jpg");
+  font-family: "Ubuntu";
+  font-size: 1rem;
+  text-align: center;
+  padding: 1% 10% 3% 10%;
+}
+#title{
+  text-align: center;
+  color: #fff;
+  font-size: 2.5rem;
+  background-color: #ff2e63;
+
+  padding:  3% 10% 3% 10%;
+}
+#calci{
+  padding:  3% 10% 3% 10%;
+  text-align: center;
+  font-weight: bold;
+}
+#mimg{
+  width:60%;
+  height:80%;
+  border-radius: 50%;
+  border-width: 34px;
+  border-color: #fff;
+
+}
+#mimg:hover{
+  border-radius: 0%;
+}
+#tiimg{
+  width: 300px;
+  height:500px;
+  position: relative;
+}
+#max{
+  visibility:collapse;
+}
+#middle{
+  visibility:collapse;
+}
+#low{
+  visibility:collapse;
+}
+#testimg{
+  border-radius: 50%;
+  height:200px;
+  width: 100px;
+}
+#titletext{
+  font-family:"Ubuntu";
+  text-align: left;
+  font-size: 3rem;
+}
+#btn{
+  width:30%;
+  padding: 3%;
+  margin: 3%;
+}
+
+.navbar{
+  font-family: "Ubuntu";
+  font-size: 2rem;
+  color: black;
+  font-weight: bold;
+  margin:0% 12% 0% 12%;
+}
+#navitem{
+  padding: 5%;
+  color: black;
+}
+body{
+  margin: 0;
+  font-family: "Ubuntu";
+}
+#testimonial{
+  text-align: center;
+  color:#fff;
+  font-size: 1.5rem;
+  padding: 3% 10% 3% 10%;
+  background-color: #ff2e63;
+}
+.gimg{
+  border-radius: 50%;
+  width: 15%;
+  height: 5%;
+}
+#features{
+  font-family: "Ubuntu";
+  font-size: 1rem;
+  text-align: center;
+  padding: 1% 10% 3% 10%;
+}
+.fimg{
+  width: 30%;
+  padding:2%;
+}
+h4{
+  font-weight: bold;
+}
+#first{
+  background-color: #fff ;
+}
+#temp{
+  color: black;
+  background-color: black;
+}
+.fas{
+  margin: 5%;
+  color: #ef8172;
+}
+#result{
+  background-color: #ff2e63;
+  color:#fff;
+}
+#main{
+  visibility: hidden;
+}
+#footer{
+  font-family: "Ubuntu";
+  font-size: 1rem;
+  text-align: center;
+  padding: 1% 10% 3% 10%;
+}
